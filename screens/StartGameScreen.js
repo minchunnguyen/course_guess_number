@@ -58,7 +58,6 @@ const StartGameScreen = (props) => {
             <View style={styles.button}>
               <Button
                 title="Reset"
-                onPress={() => {}}
                 color={Colors.accent}
                 onPress={resetInputHandler}
               />
